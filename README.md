@@ -1,3 +1,3 @@
 # azib-SMIT
-this is my first git repository
+this is my first git repository. 
 author - Muhammad_Azib
